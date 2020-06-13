@@ -1,1 +1,0 @@
-# PythonDjangoProjectV1
